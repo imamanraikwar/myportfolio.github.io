@@ -1,6 +1,6 @@
 html, body {
     max-width: 100%;
-    overflow-x: hidden;
+    
     margin: 0px; 
 }
 
@@ -277,7 +277,7 @@ section:nth-child(2n+1){
 
 .timeline-traveler{
     position: sticky;
-    top : 20%;
+    top : 30%;
     transform: rotate(90deg);
 }
 
