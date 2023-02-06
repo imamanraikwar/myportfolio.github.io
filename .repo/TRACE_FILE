@@ -1,0 +1,8 @@
+PID: 365564 START: 1675700295752745216 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init
+
+PID: 365564 START: 1675700295852243712 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 365564 END: 1675700295855992576 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 365564 END: 1675700295856320768 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init
+
